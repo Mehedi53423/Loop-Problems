@@ -1,0 +1,762 @@
+Q.1  Write a program to generate a following structure:
+          @@@@@
+          @@@@@
+          @@@@@
+          @@@@@
+          @@@@@
+
+Q.2  Write a program to generate a following #'s triangle:
+#	#	#	#	#
+	#	#	#	#
+		#	#	#
+			#	#
+				#
+
+Q.3  Write a program to generate a following @'s triangle:
+          @ @ @ @ @
+          @ @ @ @ 
+          @ @ @ 
+          @ @ 
+          @ 
+
+Q.4  Write a program to generate a following #'s triangle:-       
+#				
+#	#			
+#	#	#		
+#	#	#	#	
+#	#	#	#	# 
+
+
+Q.5  Write a program to generate a following @'s triangle:                                 
+				@
+			@	@
+		@	@	@
+	@	@	@	@
+@	@	@	@	@
+
+Q.6  Write a program to generate a following numbers structure:
+          12345
+          12345
+          12345
+          12345
+          12345
+
+Q.7  Write a program to generate a following numbers structure:
+          54321
+          54321
+          54321
+          54321
+          54321
+
+Q.8  Write a program to generate a following numbers structure:
+          55555
+          44444
+          33333
+          22222
+          11111
+
+Q.9  Write a program to generate a following numbers structure:
+          11111
+          22222
+          33333
+          44444
+          55555
+
+Q.10  Write a program to generate a following numbers structure:
+          1
+          12
+          123
+          1234
+          12345
+
+Q.11  Write a program to generate a following numbers structure:
+          12345
+          1234
+          123
+          12
+          1
+
+Q.12  Write a program to generate a following numbers structure:
+				1
+			1	2
+		1	2	3
+	1	2	3	4
+1	2	3	4	5
+
+Q.13  Write a program to generate a following numbers structure:
+          54321
+          4321
+          321
+          21
+          1
+
+Q.14  Write a program to generate a following numbers structure:
+          1
+          21
+          321
+          4321
+          54321
+
+Q.15  Write a program to generate a following numbers structure:
+          12345
+          1234
+          123
+          12
+          1
+
+Q.16  Write a program to generate a following numbers structure:
+1	2	3	4	5
+	1	2	3	4
+		1	2	3
+			1	2
+				1
+
+Q.17  Write a program to generate a following numbers structure:
+				1				
+			1	2	1			
+		1	2	3	2	1		
+	1	2	3	4	3	2	1	
+1	2	3	4	5	4	3	2	1
+
+Q.18  Write a program to generate a following numbers structure:
+1	2	3	4	5	4	3	2	1
+	1	2	3	4	3	2	1	
+		1	2	3	2	1		
+			1	2	1			
+				1				
+
+
+Q.19  Write a C program to print the following triangle:
+
+					*					
+				*	*	*				
+			*	*	*	*	*			
+		*	*	*	*	*	*	*		
+	*	*	*	*	*	*	*	*	*	
+*	*	*	*	*	*	*	*	*	*	*
+
+Q.20  Write a C program to print Floyd's triangle: 
+          1
+          2 3
+          4 5 6
+          7 8 9 10
+
+Q.21  Write a C program to print Pascal triangle:
+          1
+         1 1
+        1 2 1
+       1 3 3 1
+
+Q.22  Write a C program to print following character triangle:
+          A
+          B B
+          C C C
+          D D D D
+
+Q.23  Write a C program to print following character triangle:
+           A
+         A B A
+       A B C B A
+     A B C D C B A
+   A B C D E D C B A
+
+Q.24  Write a C program to print following character triangle:
+          A B C D E D C B A
+            B C D E D C B
+              C D E D C 
+                D E D
+                  E
+
+Q.25  Write a c program for following number structure:
+
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
+4 4 4 4
+3 3 3
+2 2
+1
+
+
+Q.26  Write a C program to display the string "INDIA" in following fashion:
+
+
+I
+IN
+IND
+INDI
+INDIA
+INDIA
+INDI
+IND
+IN
+I
+
+
+Q.27  Write a C program to display the following character structure:
+
+A
+BB
+CCC
+DDDD
+CCC
+BB
+A
+
+Q.28  Write a C program to display the following number triangle:
+
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
+
+Q. 29  Write a C program display the following number structure:
+
+123454321
+ 2345432
+  34543
+   454
+    5
+
+
+Q.30.  Write a C program to display the following number triangle structure:-
+
+     1
+    21
+   321
+  4321
+ 54321
+
+Q.31.  Write a C program to display the following number triangle structure:
+
+ 54321
+  4321
+   321
+    21
+     1
+Q.32  Write a C program to print the following number pyramid:
+
+
+          1
+         2 2
+        3 3 3
+       4 4 4 4
+      5 5 5 5 5
+     6 6 6 6 6 6
+
+
+
+Q.33  Write a C program to print the following number structure:
+
+
+          1
+         1 2
+        1 2 3
+       1 2 3 4
+      1 2 3 4 5 
+     1 2 3 4 5 6
+
+
+Q. 34  Write a C program to display the following rhombus symbol structure:
+
+     *
+    ***
+   *****
+  *******
+   *****
+    ***
+     *
+
+Q. 35  Write a C program to display the following number rhombus structure:
+
+     1
+    212
+   32123
+  4321234
+   32123
+    212
+     1
+
+Q. 36 Write a C program to display the following number rhombus structure:
+
+     1
+    121
+   12321
+  1234321
+   12321
+    121
+     1
+
+Q.37  Write a C program to display the following character rhombus structure:
+
+     A
+    ABA
+   ABCBA
+  ABCDCBA
+   ABCBA
+    ABA
+     A
+
+Q.38  Write a C program to display the following square character triangle:
+
+      A
+     ABA
+    ABCBA
+   ABCDCBA
+
+Q.39  Write a C program to display the following square character triangle:
+
+  ABCDCBA
+   ABCBA
+    ABA
+     A
+
+
+Q.40  Write a C program to display the following square character triangle:
+
+     A
+    AB
+   ABC
+  ABCD
+ ABCDE
+  ABCD
+   ABC
+    AB 
+     A
+
+Q.41  Write a C program to display the following square character triangle:
+
+
+A
+BA
+CBA
+DCBA
+EDCBA
+DCBA
+CBA
+BA
+A
+
+Q.42  Write a C program to print the following character triangle:
+
+
+EDCBA
+DCBA
+CBA
+BA
+A
+
+Q.43  Write a C program to print the following number design/triangle:
+
+9
+0 1
+2 3 4
+5 6 7 8
+9 0 1 2 3
+
+Q. 44  Write a C program to print the following number rectangle:
+
+12344321
+123__321
+12____21
+1______1
+
+Q. 45  Write a C program to print the following number pyramid or number structure:
+
+            1
+          1 2 3
+        1 2 3 4 5
+      1 2 3 4 5 6 7
+    1 2 3 4 5 6 7 8 9
+
+Q. 46 Write a C program for print the following number pyramid:
+
+123456654321
+1234554321
+12344321
+123321
+1221
+11
+
+Q. 47 Write a C program for print the following character pyramid:
+
+ABCDEFFEDCBA
+ABCDEEDCBA
+ABCDDCBA
+ABCCBA
+ABBA
+AA
+
+Q. 48  Write a C program to print the following number pyramid:
+
+       1
+      222
+     33333
+    4444444
+   555555555
+
+Q. 49 Write a C program to print the following number triangle:
+
+ 9
+ 898
+ 78987
+ 6789876
+
+
+Q. 50 Write a C program to print the following number triangle:
+
+ 5
+ 45
+ 345
+ 2345
+ 12345
+
+
+
+Q. 51 Write a C program to print the following number triangle:
+
+
+ 5
+ 454
+ 34543
+ 2345432
+ 123454321
+
+Q. 52 Write a C program to print the following star structure/fashion:
+
+*********
+ *******
+  *****
+   ***
+    *
+   ***
+  *****
+ *******
+*********
+
+Q. 53  Write a C program to print the following rectangle number pyramid:
+
+33333
+32223
+32123
+32223
+33333
+
+Q. 54 Write a C program to print the star triangle frame pyramid like as:
+
+*
+**
+* *
+*  *
+*   *
+*    *
+*     *
+*      *
+*       *
+**********
+
+Q. 55  Write a C program to print the following star pattern pyramid:
+
+*
+***
+******
+
+Q. 56 Write a C program to display the reverse star pyramid as:
+
+**********
+****  ****
+***    ***
+**      **
+*        *
+
+Q. 57  Write a C program to display odd number series pyramid as:
+
+1
+3  5  7
+9 11 13 15 17 19
+
+Q.58 Write a C program to print the following number pyramid/triangle:
+
+54321
+5432
+543
+54
+5
+
+Q.59 Write a C program to print the number character pyramid as:
+
+1
+AB
+123
+ABCD
+12345
+
+Q. 60 Write a C program to print the following Floyd triangle as:
+
+       1
+      2 3
+     4 5 6
+    7 8 9 10
+
+Q.61 Write a C program to print the following number pyramid:
+
+1 2 3 4 5
+ 2 3 4 5
+  3 4 5
+   4 5
+    5
+
+Q.62 Write a C program to print the following character pyramid:
+
+A
+BA
+ABA
+BABA
+ABABA
+
+Q.63 Write a C program to accept the number of rows of pyramid and print the star pyramid as:if entered number by user is 7 then output would be:
+
+*
+**
+***
+****
+***
+**
+*
+
+Q.64 Write a C program to print the following number pyramid:
+
+1
+232
+34543
+4567654
+
+Q.65 Write a C program to print the following number rectangle structure:
+
+12321
+12 21
+1   1
+12 21
+12321
+
+Q.66 Write a C program to print the following character rectangle design:
+
+ABCBA
+AB BA
+A   A
+AB BA
+ABCBA
+
+Q.67 Write a C program to print the following star triangle structure:
+
+*********
+*******
+*****
+***
+*
+
+Q.68 Write a C program to print the following number rectangle program:
+
+1234
+2341
+3412
+4123
+
+Q.69 Write a C program to print the following character rectangle program:
+
+ABCD
+BCDA
+CDAB
+DABC
+
+Q.70 Write a C program to print the following number pyramid program:
+
+1234
+341
+12
+3
+
+Q.71 Write a C program to print the following character pyramid program:
+
+ABCD
+CDA
+AB
+C
+
+Q.72 Write a C program to print the following number pyramid using function:
+
+ 1
+ 2 3
+ 4 5 6
+ 7 8 9 1
+ 2 3 4 5 6
+
+Q.73 Write a C program to print the following number pyramid:
+
+1
+123
+12345
+1234567
+
+Q.74 Write a C program to print the following number pyramid:
+
+1333
+2222
+3331
+
+Q.75 Write a C program to print number character pyramid as:
+
+1      a
+21     ba
+321    cba
+4321   dcba
+54321  edcba
+
+Q.76 Write a C program to print 0 and 1 number triangle as:
+
+1
+01
+010
+1010
+10101
+
+Q.77 Write the 1 and 0 number pyramid program as:
+
+1
+01
+101
+0101
+10101
+
+Q.78 Print Square star pyramid as:
+
+ ***** 
+*     *
+*     *
+ *****
+
+Q.79 Print Rectangle star pyramid as:
+
+******
+*    *
+*    *
+******
+
+Q.80 Even-odd number star pyramid as:
+
+1
+*2
+1*3
+*2*4
+1*3*5
+
+Q.81 Print continue character number pyramid as:
+
+1
+A B
+2 3 4
+C D E F
+5 6 7 8 9
+
+Q.82 Print below nested star pyramid as:
+
+* *** *** *
+** ** ** **
+*** * * ***
+
+Q.83  Print any random number pyramid as:
+
+4572
+572
+72
+2
+
+Q.84 Print the following number design:
+
+ 1
+ 23
+ 4
+ 56
+ 7
+ 89
+ 10
+
+Q.85 Design the following number pyramid:
+
+1
+121
+1231
+12341
+123451
+
+Q.86 Design the following continues number pyramid:
+
+1
+121
+12321
+1234321
+123454321
+
+Q.87 Print following alternative number-star pyramid as:
+
+1
+2*2
+3*3*3
+4*4*4*4
+4*4*4*4
+3*3*3
+2*2
+1
+
+Q.88 print diagonal star-zero pyramid as:
+
+*000000
+0*00000
+00*0000
+000*000
+0000*00
+00000*0
+000000*
+
+Q.89 Any number geometric sequence number pyramid as:
+
+ 7
+ 14 15
+ 28 29 30 31
+ 56 57 58 59 60 61 62 63
+
+Q.90 Print the nested hash-star pyramid as:
+
+#####*#####
+####*#*####
+###*###*###
+##*#####*##
+#*#######*#
+*#########*
+
+Q.91 Print half-square number triangle as:
+
+543212345
+ 4321234
+  32123
+   212
+    1
+
+Q.92 Print equilateral triangle number as:
+
+     5
+    454
+   34543
+  2345432
+ 123454321
+
+Q.93 Print positive-negative number triangle as:
+
+9 
+8  6
+7  5  3
+4  2  0 -2
+1 -1 -3 -5 -7
